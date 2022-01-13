@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 407d12331114c4eaeaa304dda47a4c75, type: 3}
+  m_Name: Guide
+  m_EditorClassIdentifier: 
+  guidIndex: 0
+  guideTitle: "\uC218\uAC04\uC8FC\uC785"
+  guideDescription:
+  - "\uC774\uAC83\uC740 \uCCAB\uBC88\uC9F8 \uC124\uBA85"
+  - "\uC774\uAC83\uC740 \uB450\uBC88\uC9F8 \uC124\uBA85"
+  guideDescriptionVoice:
+  - {fileID: 0}
+  - {fileID: 0}
