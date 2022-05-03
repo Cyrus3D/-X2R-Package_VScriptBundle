@@ -1,11 +1,10 @@
-using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
 [CreateAssetMenu(fileName = "GuideTextList", menuName = "EasyState/GuideTextList", order = 1)]
 public class GuideTextList : ScriptableObject
 {
-     public List<GuideList> guideLists; 
+    public List<GuideList> guideLists; 
 }
 [System.Serializable]
 public class GuideList {
