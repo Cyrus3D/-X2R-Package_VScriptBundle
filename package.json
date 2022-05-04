@@ -1,8 +1,8 @@
 {
   "name": "com.intervr.easystatemanager",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "displayName": "[X2R] Easy State Manager",
-  "description": "1.0.4\nRecover LocalGuideText\n\n1.0.3\nUpdate GuideTextList\n\n1.0.2\nUpdate Reload Current Scene\n\n1.0.1\nRandom Audio Playing\n\n1.0.0\nEasy State Manager",
+  "description": "1.05\nRemove LocalGuideText\nAdd Super_GuideTextList\n\n1.0.4\nRecover LocalGuideText\n\n1.0.3\nUpdate GuideTextList\n\n1.0.2\nUpdate Reload Current Scene\n\n1.0.1\nRandom Audio Playing\n\n1.0.0\nEasy State Manager",
   "unity": "2021.1",
   "unityRelease": "0b5",
   "documentationUrl": "https://example.com/",
