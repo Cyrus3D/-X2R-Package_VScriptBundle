@@ -9,9 +9,23 @@
 
 ## Simple GuideText
 타이틀, 설명 리스트. 가독성을 고려하여 설명마다 개별로 생성하도록 고려되었다.
-  - Scriptable object
-  - Nest graph
-  - Inside of the nest
+- Node Name: **Super_GuideReturnString**
+- Scriptable object
+- Nest graph
+- Inside of the nest
 <img src="https://user-images.githubusercontent.com/12027747/166625888-239251d3-a124-4051-a218-2f4dbc251363.png" width="400"/>
 <img src="https://user-images.githubusercontent.com/12027747/166626164-72b37dd7-3bf3-4acb-b114-cb8e6075461a.png" width="400"/>
 <img src="https://user-images.githubusercontent.com/12027747/166626261-bbcc16bb-e2fe-4043-aada-c5df5d4a54f7.png" width="400"/>
+
+## Trigger In-Out
+트리거 들어가고 나가는 이벤트
+- Node Name: **Super_OnTriggerInOut**
+## Random Audio Player
+리스트의 오디오를 랜덤으로 재생
+- Node Name: **Super_RandomAudioPlaying**
+## Reload Current Scene
+현재 활성화된 씬을 다시 로드
+- Node Name: **Super_ReloadCurrentScene**
+## Singleton
+오브젝트 싱글턴
+- Node Name: **Super_GuideReturnString**
