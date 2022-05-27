@@ -27,11 +27,11 @@
 리스트에서 모델을 생성
 ### Node Name: Super_InstantiateModelFromList
 - Input
-- ModelList: Object Variable Name
-- ModelIndex
-- Parent: Object Variable Name
-- DisplayModelName: Object Variable Name
-- TitleTextMesh: Object Variable Name
+  - ModelList: Object Variable Name
+  - ModelIndex
+  - Parent: Object Variable Name
+  - DisplayModelName: Object Variable Name
+  - TitleTextMesh: Object Variable Name
 <img src="https://user-images.githubusercontent.com/12027747/170457096-3515ca10-554b-4adc-89e1-c4cad5dc87d6.png" width="400"/>
 <img src="https://user-images.githubusercontent.com/12027747/170457300-85d87a11-2f59-43a1-ab82-059b87a736bc.png" width="400"/>
 
