@@ -10,11 +10,30 @@
 
 ## Simple GuideTextList
 타이틀, 설명, 나레이션을 리스트로 넣을 수 있도록 되어있음
-- Node Name: **Super_GuideTextList**
-1. 앱 Variable
-2. 오브젝트 Variables
-<img src="https://user-images.githubusercontent.com/12027747/166649463-1f390941-b3ff-421a-aa6e-2358a9cd0be4.png" width="400"/>
+### Node Name: Super_GuideTextList
+- Input
+  - GuideTextList: App Variable Name
+  - Index: TextListIndex
+  - Title: Object Variable Name
+  - Description: Object Varialble Name
+- Output
+  - Title
+  - Description
+  - Voice
+<img src="https://user-images.githubusercontent.com/12027747/170455338-31d41754-6de6-46ac-8575-854d0cc54b49.png" width="400"/>
 <img src="https://user-images.githubusercontent.com/12027747/166649630-f0ec20f1-6cb8-4da7-8c75-ed1612451173.png" width="400"/>
+
+## Instantiate Model from List
+리스트에서 모델을 생성
+### Node Name: Super_InstantiateModelFromList
+- Input
+  - ModelList: Object Variable Name
+  - ModelIndex
+  - Parent: Object Variable Name
+  - DisplayModelName: Object Variable Name
+  - TitleTextMesh: Object Variable Name
+<img src="https://user-images.githubusercontent.com/12027747/170457096-3515ca10-554b-4adc-89e1-c4cad5dc87d6.png" width="400"/>
+<img src="https://user-images.githubusercontent.com/12027747/170457300-85d87a11-2f59-43a1-ab82-059b87a736bc.png" width="400"/>
 
 
 ## Trigger In-Out
