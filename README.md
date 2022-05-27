@@ -35,6 +35,12 @@
 <img src="https://user-images.githubusercontent.com/12027747/170457096-3515ca10-554b-4adc-89e1-c4cad5dc87d6.png" width="400"/>
 <img src="https://user-images.githubusercontent.com/12027747/170457300-85d87a11-2f59-43a1-ab82-059b87a736bc.png" width="400"/>
 
+## Move to Previous Scene
+빌드 씬 뒤로가기
+
+<img src="https://user-images.githubusercontent.com/12027747/170620939-0b43e323-55a5-40d2-a1d4-d7b316ffbc4a.png" width="400"/>
+<img src="https://user-images.githubusercontent.com/12027747/170621052-1907d715-449a-456b-9691-418852e97336.png" width="400"/>
+
 
 ## Trigger In-Out
 트리거 들어가고 나가는 이벤트
