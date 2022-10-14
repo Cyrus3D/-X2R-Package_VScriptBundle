@@ -1,8 +1,8 @@
 {
   "name": "com.intervr.easystatemanager",
-  "version": "1.0.13",
+  "version": "1.0.14",
   "displayName": "[X2R] Easy State Manager",
-  "description": "1.0.13\nMinor update\n\n1.0.12\nAdd super\nGet Vcams\n\n1.0.11\nAdd Move to Previous Scene\n\n1.0.10\n--\n1.0.9\nAdd Instantiate Model from List\n\n1.0.8\nUpdate Guide Text List more simple\n\n1.0.7\nUpdate Guide Text List\n\n1.0.6\nUpdate Guide Text List\n\n1.0.5\nRemove LocalGuideText\nAdd Super_GuideTextList\n\n1.0.4\nRecover LocalGuideText\n\n1.0.3\nUpdate GuideTextList\n\n1.0.2\nUpdate Reload Current Scene\n\n1.0.1\n\nRandom Audio Playing\n\n1.0.0\nEasy State Manager",
+  "description": "1.0.14\nAdd Vcam step\n\n1.0.13\nMinor update\n\n1.0.12\nAdd super\nGet Vcams\n\n1.0.11\nAdd Move to Previous Scene\n\n1.0.10\n--\n1.0.9\nAdd Instantiate Model from List\n\n1.0.8\nUpdate Guide Text List more simple\n\n1.0.7\nUpdate Guide Text List\n\n1.0.6\nUpdate Guide Text List\n\n1.0.5\nRemove LocalGuideText\nAdd Super_GuideTextList\n\n1.0.4\nRecover LocalGuideText\n\n1.0.3\nUpdate GuideTextList\n\n1.0.2\nUpdate Reload Current Scene\n\n1.0.1\n\nRandom Audio Playing\n\n1.0.0\nEasy State Manager",
   "unity": "2021.1",
   "unityRelease": "0b5",
   "documentationUrl": "https://example.com/",
