@@ -1,4 +1,4 @@
-# EasyStateManager
+# Visual Script Bundle
 간단한 어플리케이션 구현에 자주 사용하는 Unity3d Visual Script Function Collection
 ## Build Custom Visual Script Node
 1. Assets
