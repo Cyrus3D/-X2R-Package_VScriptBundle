@@ -24,10 +24,10 @@
 <img src="https://user-images.githubusercontent.com/12027747/166649630-f0ec20f1-6cb8-4da7-8c75-ed1612451173.png" width="400"/>
 
 ### Node Name: Super_GetVcams
-<img src="https://raw.githubusercontent.com/Cyrus3D/-X2R-Package_VScriptBundle/main/Images/Super_GetVcams.png?token=GHSAT0AAAAAABXEOHQUJA4H5RX2ABNOVTBSY2JHGOA" width="400"/>
+<img src="https://raw.githubusercontent.com/Cyrus3D/-X2R-Package_VScriptBundle/main/Images/Super_GetVcams.png" width="400"/>
 
 ### Node Name: Super_VacamStep
-<img src="https://raw.githubusercontent.com/Cyrus3D/-X2R-Package_VScriptBundle/main/Images/Super_VcamStep.png?token=GHSAT0AAAAAABXEOHQVP6NUJPKJVQG2L6P6Y2JHEGA" width="400"/>
+<img src="https://raw.githubusercontent.com/Cyrus3D/-X2R-Package_VScriptBundle/main/Images/Super_VcamStep.png" width="400"/>
 
 ## Instantiate Model from List
 리스트에서 모델을 생성
